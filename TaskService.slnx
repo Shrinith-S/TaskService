@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TaskService.API/TaskService.API.csproj" />
+    <Project Path="src/TaskService.Application/TaskService.Application.csproj" />
+    <Project Path="src/TaskService.Consumer/TaskService.Consumer.csproj" />
+    <Project Path="src/TaskService.Contracts/TaskService.Contracts.csproj" />
+    <Project Path="src/TaskService.Domain/TaskService.Domain.csproj" />
+    <Project Path="src/TaskService.Infrastructure/TaskService.Infrastructure.csproj" />
+  </Folder>
+</Solution>
